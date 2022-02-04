@@ -1,7 +1,7 @@
 ## CodePath Prework
 
 ### App Description
-`TODO://` Add app description
+This app was apart of CodePath's prework assignment.
 
 ### App Walk-though
 
